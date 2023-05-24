@@ -31,3 +31,4 @@ function display() {
         console.log("stack element no", i, "and value is", data[i])
     }
 }
+
